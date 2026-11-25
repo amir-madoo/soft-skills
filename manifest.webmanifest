@@ -1,0 +1,13 @@
+{
+  "name": "Practical Judgment — Learning Tracker",
+  "short_name": "Practical Judgment",
+  "description": "Offline-capable tracker for the Practical Judgment and Human Capability curriculum.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f2",
+  "theme_color": "#173b35",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
